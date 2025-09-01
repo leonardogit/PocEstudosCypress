@@ -1,0 +1,15 @@
+{
+  "name": "poc-cypress",
+  "version": "1.0.0",
+  "description": "Projeto teste de estudos usando cypress",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "author": "Leonardp",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^15.0.0",
+    "cypress-xpath": "^2.0.1"
+  }
+}
